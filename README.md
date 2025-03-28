@@ -8,4 +8,4 @@ AI-Generated Content (AIGC) services have gained significant popularity among mo
 ![image](https://github.com/user-attachments/assets/89476716-6c25-4eaf-8991-284bf9d8f2cc)
 
 
-<img src="https://github.com/user-attachments/assets/30ac17b2-be19-4d42-959a-53f96368524f" width="50%">
+<img src="https://github.com/user-attachments/assets/30ac17b2-be19-4d42-959a-53f96368524f" width="65%">
